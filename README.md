@@ -29,7 +29,7 @@ We did the same to find the total drivers and total fares. To get the averages w
 
 ![image](https://user-images.githubusercontent.com/110706169/190749841-615be79a-da70-4dfc-b3aa-09cac25090b7.png)
 
-The image below demonstrates the differences in **Total Fares** by city type in **Urban, Suburban, and Rural cities** across 5 months(Jan - May) in 2019.
+The image below demonstrates the differences in **Total Fares** by city type in **Urban, Suburban, and Rural** cities across 5 months(Jan - May) in 2019.
 
 ![image](https://user-images.githubusercontent.com/110706169/190732100-dd59cca8-704f-46f6-ba45-3aa2d42f3f09.png)
 

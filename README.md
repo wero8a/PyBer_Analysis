@@ -16,8 +16,8 @@ From this summary we can depict that:
 - Urban cities have the most total fares, drivers, and rides.
 - Rural cities have the least total fares, drivers, and rides.
 - Suburban cities are in between.
-- The average fares in rural cities is considerably higher than the rest 
-- The average fares in urban cities is considerably lower  than the rest
+- The average fares in rural cities are considerably higher than the rest 
+- The average fares in urban cities are considerably lower  than the rest
 
 To get these values we used the *groupby()* function to set the index as city types and return all the data we need. For instance, to calculate the total rides for our summary DataFrame we used:
 
